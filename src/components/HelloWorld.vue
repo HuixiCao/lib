@@ -1,6 +1,7 @@
 <template>
   <div class="hello">
     hello from lib 2
+    changed from app1
   </div>
 </template>
 
