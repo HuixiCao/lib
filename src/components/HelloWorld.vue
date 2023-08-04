@@ -1,6 +1,6 @@
 <template>
   <div class="hello">
-    hello from lib
+    hello from lib 2
   </div>
 </template>
 
