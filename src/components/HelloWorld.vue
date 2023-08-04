@@ -1,5 +1,7 @@
 <template>
-  <div class="hello"></div>
+  <div class="hello">
+    hello from lib
+  </div>
 </template>
 
 <script>
